@@ -24,7 +24,6 @@
 
 <!-- Animated GitHub Contribution Snake -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyKinG10&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
